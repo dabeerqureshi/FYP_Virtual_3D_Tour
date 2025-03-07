@@ -1,0 +1,3 @@
+Image Path,Prompt
+img1.jpg,"Based on the clustering analysis, this image most likely belongs to the cluster with the centroid at [0.12 0.45 0.78]. The image features resemble objects in this cluster, such as mountain, which are common in this cluster."
+img2.jpg,"Based on the clustering analysis, this image most likely belongs to the cluster with the centroid at [0.6425 0.5875 0.3675]. The image features resemble objects in this cluster, such as monument, which are common in this cluster."
